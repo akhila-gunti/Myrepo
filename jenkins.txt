@@ -1,3 +1,7 @@
 hello 
 im akhila gunti
+<<<<<<< HEAD
 currently working as a sr devops engineer
+=======
+currently working as a senior.devops engineer
+>>>>>>> feature1
