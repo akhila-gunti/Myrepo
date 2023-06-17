@@ -1,7 +1,11 @@
 hello 
 im akhila gunti
 <<<<<<< HEAD
+<<<<<<< HEAD
 currently working as a sr devops engineer
 =======
 currently working as a senior.devops engineer
 >>>>>>> feature1
+=======
+currently working as a senior.devops engineer
+>>>>>>> 98083b9 (changes done before merge)
